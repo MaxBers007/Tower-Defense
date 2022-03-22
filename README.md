@@ -5,5 +5,5 @@ The interesting points of this project:
 - Generation of random map and enemies
 - Launch of projectile with predetermination of the positions of the enemy during his movement.
 - Manage the life of the entities
-- Entity move
+- Make an entity move naturally along a drawn path
 - Directed projectile shot 
